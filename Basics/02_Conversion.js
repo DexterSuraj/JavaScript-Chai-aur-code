@@ -69,3 +69,12 @@ console.log(num1**num2);
  let str2=" Hitesh";
  let str3= str1+str2;
  console.log(str3);
+
+
+   ////{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{COMPARISON}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}////
+
+   // We should'nt compare two differnt types of data types because it may or may not give the predictable output.
+
+   console.log("2"<3)
+   console.log("2">=2)
+   console.log(null==0)
